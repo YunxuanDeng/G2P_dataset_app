@@ -1,0 +1,12 @@
+name: G2P_dataset_app-master
+title: G2P_dataset_app-master
+username: tmdengapp
+account: tmdengapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14441069
+bundleId: 10063124
+url: https://tmdengapp.shinyapps.io/G2P_dataset_app-master/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

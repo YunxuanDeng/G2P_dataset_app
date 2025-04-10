@@ -1,0 +1,15 @@
+# Genetic architecture of terpene chemistry and growth traits and the impact of inbreeding on these traits in western redcedar (Thuja plicata)
+
+This publication discusses: Western redcedar (WRC; Thuja plicata) is a conifer of the Pacific Northwest of North America prized for its durable and rot-resistant wood. WRC has naturally low outcrossing rates and readily self-fertilizes in nature. Challenges faced in WRC breeding and propagation involve selecting trees for accelerated growth while also ensuring enhanced heartwood rot resistance and resistance to ungulate browsing, as well as mitigating potential effects of inbreeding depression. Terpenes, a large and diverse class of specialized metabolites, confer both rot and browse resistance in the wood and foliage of WRC, respectively. Using a Bayesian modelling approach, we isolated single nucleotide polymorphism (SNP) markers estimated to be associated with three different foliar terpene traits and four different heartwood terpene traits, as well as two growth traits. We found that all traits were complex, being associated with between 1700 and 3600 SNPs linked with putatively causal loci, with significant polygenic components. Growth traits tended to have a larger polygenic component while terpene traits had larger major gene components; SNPs with small or polygenic effect were spread across the genome, while larger-effect SNPs tended to be localized to specific linkage groups. To determine whether there was inbreeding depression for terpene chemistry or growth traits, we used mixed linear models for a genomic selection training population to estimate the effect of the inbreeding coefficient F on foliar terpenes, heartwood terpenes and several growth and dendrochronological traits. We did not find significant inbreeding depression for any assessed trait. We further assessed inbreeding depression across four generations of complete selfing and found that not only was inbreeding depression not significant but that selection for height growth was the only significant predictor for growth during selfing, suggesting that inbreeding depression due to selfing during operational breeding can be mitigated by increased selection intensity.
+
+It contains 4833 genotypes and 51638 markers.
+
+Title: Genetic architecture of terpene chemistry and growth traits and the impact of inbreeding on these traits in western redcedar (Thuja plicata)
+
+Scientific name: Thuja plicata
+
+Common name: Western Redcedar
+
+DOI: https://doi.org/10.5281/zenodo.6562381
+
+
