@@ -68,12 +68,12 @@ check_Title <- function(Title,DOI,TF){
 
 # Proceed if any error with API occurs
 API_Article <- function(Title,SearchTerm){
-  return(list("<span style='color: grey;'>Unable to validate the article due to an error. Please proceed with your submission.</span>", TRUE))
+  return(list("<span style='color: grey;'>Please proceed with your submission.</span>", TRUE))
   tryCatch({
-    return(list("<span style='color: grey;'>Unable to validate the article due to an error. Please proceed with your submission.</span>", TRUE))
+    return(list("<span style='color: grey;'>Please proceed with your submission.</span>", TRUE))
     #find_Article(Title, SearchTerm)
   }, error = function(e) {
-    return(list("<span style='color: grey;'>Unable to validate the article due to an error. Please proceed with your submission.</span>", TRUE))
+    return(list("<span style='color: grey;'>Please proceed with your submission.</span>", TRUE))
   })
 }
 
